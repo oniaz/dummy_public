@@ -1,2 +1,2 @@
 # dummy_public
-dummy thicc
+dummy
